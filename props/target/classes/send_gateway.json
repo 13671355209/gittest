@@ -1,0 +1,650 @@
+[
+  {
+    "sysCode": "1011",
+    "converType": {
+      "types": [
+        "java.lang.String"
+      ],
+      "values": [
+        "s"
+      ]
+    },
+    "infos": [
+      {
+        "messageTypeId": "1031101101",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "com.ebase.thirdparty.xbus.send.contract.ControlGoodsGroup",
+        "sender":"1031",
+        "reciver":"1011",
+        "svcName":"1031101101"
+      },
+      {
+        "messageTypeId": "1031101103",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "com.ebase.thirdparty.xbus.send.contract.certiSplit.CertiSplitRD"
+      },
+      {
+        "messageTypeId": "1031101106",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "1031101107",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "com.ebase.thirdparty.xbus.send.pr.stockinbill.PrStStockInBillRD"
+      }
+    ]
+  },
+  
+  {
+    "sysCode": "1010",
+    "converType": {
+      "types": [
+        "java.lang.String"
+      ],
+      "values": [
+        "s"
+      ]
+    },
+    "infos": [
+      {
+        "messageTypeId": "1031101003",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "1031101009",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "1031101004",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "1031101005",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "1031101010",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "1031101006",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "1031101011",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+
+      },
+      {
+        "messageTypeId": "10311010A1",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "10311010A0",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "10311010T1",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+
+      },
+      {
+        "messageTypeId": "10311010T0",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+
+      },
+      {
+        "messageTypeId": "1031101007",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "com.ebase.thirdparty.xbus.send.capital.TrCapitalEnmBorrowingRD"
+      }
+    ]
+
+  },
+
+
+
+  {
+    "sysCode": "1017",
+    "converType": {
+      "types": [
+        "java.lang.String"
+      ],
+      "values": [
+        "s"
+      ]
+    },
+    "infos": [
+      {
+        "messageTypeId": "10311017Q1",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "10311017C2",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "10311017C3",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "10311017C4",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "com.ebase.thirdparty.xbus.send.pr.instoreapply.PrPackMergeOrSplitRD"
+      },
+      {
+        "messageTypeId": "10311017C5",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "java.util.List"
+      }
+    ]
+  },
+
+
+  {
+    "sysCode": "1072",
+    "converType": {
+      "types": [
+        "java.lang.String"
+      ],
+      "values": [
+        "s"
+      ]
+    },
+    "infos": [
+      {
+        "messageTypeId": "1031107209",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/gs/tax",
+        "classNames": "java.util.List",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107207",
+        "url": "http://192.168.147.141:2223/gmStorage/receiveMaterialUpd",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "1031107208",
+        "url": "http://192.168.147.141:2223/gmStorage/transChangeReceive",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "1031107215",
+        "url": "http://192.168.147.141:2223/gmStorage/transCancelReceive",
+        "classNames": "java.util.List",
+        "isAuth": "false",
+        "sysCode":"1072",
+        "userName": "",
+        "password": "",
+        "system": "gm"
+      },
+      {
+        "messageTypeId": "1031107209",
+        "url": "http://192.168.147.141:2224/gmTran/transportInstr",
+        "classNames": "com.ebase.thirdparty.xbus.send.base.md.BsTransPlanAndItemRD"
+      },
+      {
+        "messageTypeId": "1031107205",
+        "url": "http://192.168.147.141:2223/gmStorage/receiveGmupd",
+        "classNames": "java.util.List",
+        "isAuth": "false",
+        "sysCode":"1072",
+        "userName": "",
+        "password": "",
+        "system": "gm"
+      },
+      {
+        "messageTypeId": "1031107204",
+        "url": "http://192.168.147.141:2223/gmStorage/outPlanReceive",
+        "classNames": "com.ebase.thirdparty.xbus.send.pr.outboundorder.OutboundOrderRD"
+      },
+      {
+        "messageTypeId": "1031107203",
+        "url": "http://192.168.147.141:2223/gmStorage/inPlanReceive",
+        "classNames": "com.ebase.thirdparty.xbus.send.pr.storageinstruction.StorageLnstructionRD"
+      },
+      {
+        "messageTypeId": "1031107206",
+        "url": "http://192.168.147.141:2223/gmStorage/receiveGmupdate",
+        "classNames": "java.util.List",
+        "isAuth": "false",
+        "sysCode":"1072",
+        "userName": "",
+        "password": "",
+        "system": "gm"
+      },
+      {
+        "messageTypeId": "1031107202",
+        "url": "http://192.168.147.141:2220/gmBase/depotReceive",
+        "classNames": "java.util.List",
+        "isAuth": "false",
+        "sysCode":"1072",
+        "userName": "",
+        "password": "",
+        "system": "gm"
+      },
+      {
+        "messageTypeId": "1031107201",
+        "url": "http://192.168.147.141:2220/gmBase/carrierReceive",
+        "classNames": "java.util.List",
+        "isAuth": "false",
+        "sysCode":"1072",
+        "userName": "",
+        "password": "",
+        "system": "gm"
+      },
+      {
+        "messageTypeId": "1031107210",
+        "url": "http://192.168.147.141:2222/fee/receiveGmFee",
+        "classNames": "java.util.List",
+        "isAuth": "false",
+        "sysCode":"1072",
+        "userName": "",
+        "password": "",
+        "system": "gm"
+      },
+      {
+        "messageTypeId": "1031107211",
+        "url": "http://192.168.147.141:2222/payment/receiveGmPayment",
+        "classNames": "java.util.List",
+        "isAuth": "false",
+        "sysCode":"1072",
+        "userName": "",
+        "password": "",
+        "system": "gm"
+      }
+    ]
+  },
+  {
+    "sysCode": "1073",
+    "converType": {
+      "types": [
+        "java.lang.String"
+      ],
+      "values": [
+        "s"
+      ]
+    },
+    "infos": [
+      {
+        "messageTypeId": "10311073001",
+        "url": "http://10.68.24.165:8888/test",
+        "classNames": "java.util.List"
+      }
+    ]
+  },
+  {
+    "sysCode": "1079",
+    "converType": {
+      "types": [
+        "java.lang.String"
+      ],
+      "values": [
+        "s"
+      ]
+    },
+    "infos": [
+      {
+        "messageTypeId": "1031107908",
+        "url": "http://10.68.24.165:7766/restMessage",
+        "classNames": "com.ebase.thirdparty.sap.send.contract.TrSaleContractSAPVO",
+        "isAuth": "true",
+		"userName": "pi_ser",
+		"password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107902",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mdm",
+        "classNames": "java.util.List",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107901",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mdm",
+        "classNames": "java.util.List",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1079103105",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mdm/accounts",
+        "classNames": "java.util.List",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107903",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mdm/CreateLif",
+        "classNames": "java.util.List",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1079103101",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mdm/fi01",
+        "classNames": "com.ebase.thirdparty.sap.recover.costmanagement.SubjectBalanceVO",
+        "sysCode":"1079",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1079103106",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mdm/Costcente",
+        "classNames": "com.ebase.thirdparty.sap.recover.costmanagement.SynchronizedCostCenterVO",
+        "sysCode":"1079",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107905",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mm/PutStorage",
+        "classNames": "com.ebase.thirdparty.sap.send.pr.SAPInBillListVO",
+        "sysCode":"1079",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107906",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mm/OutStorage",
+        "classNames": "com.ebase.thirdparty.sap.send.pr.SAPOutBillListVO",
+        "sysCode":"1079",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1079103108",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mm/PutStorage",
+        "classNames": "java.util.List",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1079103109",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mm/PutStorage",
+        "classNames": "java.util.List",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1079103110",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mm/PutStorage",
+        "classNames": "java.util.List",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107909",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/invoice",
+        "classNames": "com.ebase.thirdparty.sap.send.sales.TrSalesInvoiceMSD",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107904",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mm/po",
+        "classNames": "com.ebase.thirdparty.sap.send.contract.PurContractToSAP",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107907",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/income/invoice",
+        "classNames": "com.ebase.thirdparty.sap.send.invoice.InvoiceToSAP",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107917",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/documents",
+        "classNames": "com.ebase.thirdparty.sap.send.voucher.TrVoucherSD",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107918",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/invoice",
+        "classNames": "com.ebase.thirdparty.sap.send.voucher.TrVoucherSD",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107915",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/gr",
+        "classNames": "java.util.List",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107916",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/gr",
+        "classNames": "java.util.List",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1079103103",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mdm/bank",
+        "classNames": "java.util.List",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1079103102",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/gs/capital/i001",
+        "classNames": "java.util.List",
+        "receiver":"1079",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      }
+    ]
+  },
+  {
+    "sysCode": "1030",
+    "converType": {
+      "types": [
+        "java.lang.String"
+      ],
+      "values": [
+        "s"
+      ]
+    },
+    "infos": [
+      {
+        "messageTypeId": "JK0002",
+        "url": "http://192.168.147.131/api/shougang/gm/",
+        "classNames": "com.ebase.thirdparty.Intelligentmarketing.sender.saleContract.IMPSaleContractRD"
+      },
+      {
+        "messageTypeId": "JK0033",
+        "url": "http://192.168.147.131/api/shougang/gm/",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "JK0009",
+        "url": "http://192.168.147.131/api/shougang/gm/",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "JK0019",
+        "url": "http://192.168.147.131/api/shougang/gm/",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "JK0031",
+        "url": "http://192.168.147.131/api/shougang/gm/",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "JK0051",
+        "url": "http://192.168.147.131/api/shougang/gm/",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "JK0054",
+        "url": "http://192.168.147.131/api/shougang/gm/",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "JK0057",
+        "url": "http://192.168.147.131/api/shougang/gm/",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "JK0059",
+        "url": "http://192.168.147.131/api/shougang/gm/",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "JK0064",
+        "url": "http://192.168.147.131/api/shougang/gm/",
+        "classNames": "java.util.List"
+      },
+      {
+        "messageTypeId": "JK0065",
+        "url": "http://192.168.147.131/api/shougang/gm/",
+        "classNames": "java.util.List"
+      }
+    ]
+  },
+  {
+    "sysCode": "1074",
+    "converType": {
+      "types": [
+        "java.lang.String"
+      ],
+      "values": [
+        "s"
+      ]
+    },
+    "infos": [
+      {
+        "messageTypeId": "1031107402",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mm/PutStorage",
+        "classNames": "com.ebase.thirdparty.sap.send.capital.PaymentCollect",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107401",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mm/PutStorage",
+        "classNames": "com.ebase.thirdparty.sap.send.capital.PaymentClaimSD",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      }
+    ]
+  },
+  {
+    "sysCode": "1075",
+    "converType": {
+      "types": [
+        "java.lang.String"
+      ],
+      "values": [
+        "s"
+      ]
+    },
+    "infos": [
+      {
+        "messageTypeId": "1031107503",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mm/PutStorage",
+        "classNames": "java.util.List",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107501",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mm/PutStorage",
+        "classNames": "com.ebase.thirdparty.sap.send.settleaccount.TrSalesInvoiceSend",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      },
+      {
+        "messageTypeId": "1031107502",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mm/PutStorage",
+        "classNames": "com.ebase.thirdparty.sap.send.settleaccount.cancelled.SalesInvoice",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      }
+    ]
+  },
+  {
+    "sysCode": "9001",
+    "converType": {
+      "types": [
+        "java.lang.String"
+      ],
+      "values": [
+        "s"
+      ]
+    },
+    "infos": [
+      {
+        "messageTypeId": "9001103101",
+        "url": "http://10.1.249.199:50000/RESTAdapter/yxgm/sap/mm/PutStorage",
+        "classNames": "java.util.List",
+        "isAuth": "true",
+        "userName": "pi_ser",
+        "password": "init1234"
+      }
+    ]
+  }
+
+]

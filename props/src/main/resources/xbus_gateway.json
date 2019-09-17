@@ -1,0 +1,545 @@
+[
+	{
+		"sysCode": "1011",
+		"infos": [
+			{
+				"interfaceId": "1011103104",
+				"serviceId": "contract-service",
+				"uri": "tr-ready-bill-info/xbus/xbusKeepRedRush",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.production.GmCxZhunFaHongChongXinXiVO"
+				]
+			},
+			{
+				"interfaceId": "1011103105",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save11",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1011103106",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save12",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1011103108",
+				"serviceId": "contract-service",
+				"uri": "tr-stacking-info/xbus/redRush",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.stock.CmCxMaDanHongChongRD"
+				]
+			},
+			{
+				"interfaceId": "1011103111",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save14",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1011103112",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save15",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1011103113",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save16",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1011103114",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save17",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1011103115",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save18",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1011103116",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save19",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1011103110",
+				"serviceId": "production-service",
+				"uri": "gmCxZhibaoshuzhiliangxinxi/save",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.production.GmCxZhiBaoShuZhiLiangXinXiVO"
+				]
+			},
+			{
+				"interfaceId": "1011103109",
+				"serviceId": "production-service",
+				"uri": "gmCxZhibaoshuxinxi/save",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.production.GmCxZhiBaoShuXinXiVO"
+				]
+			},
+			{
+				"interfaceId": "1011103103",
+				"serviceId": "contract-service",
+				"uri": "tr-ready-bill-info/xbus/xbusKeepQuasiFat",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.production.GmCxZhunFaDanJuJiCaiLiaoXinXiVO"
+				]
+			},
+			{
+				"interfaceId": "1011103107",
+				"serviceId": "contract-service",
+				"uri": "tr-stacking-info/xbus/shipCode",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.production.FaHuoMaDan.GmCxFaHuoMaDanZongVO",
+					"com.ebase.thirdparty.sap.recover.production.FaHuoMaDan.Body",
+					"com.ebase.thirdparty.sap.recover.production.FaHuoMaDan.Circle"
+				]
+			},
+			{
+				"interfaceId": "1011103101",
+				"serviceId": "production-service",
+				"uri": "gmCxWuliufangan/save",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.production.GmCxWuLiuFangAnAllVO",
+					"com.ebase.thirdparty.sap.recover.production.Body",
+					"com.ebase.thirdparty.sap.recover.production.Circle"
+				]
+			},
+			{
+				"interfaceId": "9001103104",
+				"serviceId": "capital-service",
+				"uri": "tr-recv-app/receiveOy",
+				"classNames": [
+					"com.ebase.thirdparty.oy.sender.contract.TrRecvAppRD"
+				]
+			}
+		]
+	},
+	{
+		"sysCode": "1010",
+		"infos": [
+			{
+				"interfaceId": "1010103102",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save1",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1010103103",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save2",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1010103104",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save3",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1010103107",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save4",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1010103110",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save5",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1010103111",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save6",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1010103115",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save7",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1010103117",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save8",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1010103118",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save9",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1010103101",
+				"serviceId": "production-service",
+				"uri": "oracle-merchant-main-data/keepThird",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.mdm.MerchantMainDataRD"
+				]
+			},
+			{
+				"interfaceId": "1010103106",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeDetails/save",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeDetailsRD"
+				]
+			},
+			{
+				"interfaceId": "1010103108",
+				"serviceId": "production-service",
+				"uri": "oracle-contract-info/keepThird",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.contract.ContractInfoRD"
+				]
+			},
+			{
+				"interfaceId": "1010103114",
+				"serviceId": "production-service",
+				"uri": "oracle-contract-production-schedule02/keepThird",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.sales.contractProduction.ContractProductionScheduleAll",
+					"com.ebase.thirdparty.sap.recover.sales.contractProduction.Body",
+					"com.ebase.thirdparty.sap.recover.sales.contractProduction.Circle"
+				]
+			},
+			{
+				"interfaceId": "1010103116",
+				"serviceId": "production-service",
+				"uri": "oracle-spot-material-uality/keepThird",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.sales.SpotMaterialUalityRD"
+				]
+			},
+			{
+				"interfaceId": "1010103109",
+				"serviceId": "production-service",
+				"uri": "oracle-contract-info-1/keepThird",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.contract.ContractInfo1RD"
+				]
+			},
+          {
+            "interfaceId": "1010102803",
+            "serviceId": "production-service",
+            "uri": "oracle-contract-info-1/keepThird2",
+            "classNames": [
+              "com.ebase.thirdparty.xbus.reciver.contract.PurContract2RD"
+            ]
+          },
+			{
+				"interfaceId": "1010103105",
+				"serviceId": "production-service",
+				"uri": "oracle-smallCodeMaster/save",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.md.SmallCodeMasterRD"
+				]
+			},
+			{
+				"interfaceId": "1010103112",
+				"serviceId": "production-service",
+				"uri": "oracle-sales-contract-tracking/keepThird",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.sales.SalesContractTrackingRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QC",
+				"serviceId": "base-service",
+				"uri": "product-order-user-usage-info/thirdSave",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.basicdata.ProductOrderUserUsageInfoVO"
+				]
+			},
+			{
+				"interfaceId": "10101031A0",
+				"serviceId": "third-data-service",
+				"uri": "parts-info-synchro/keepThird",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.customer.PartsInfoSynchroRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QT",
+				"serviceId": "third-data-service",
+				"uri": "manu_line_thick_tole/keepThird",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.customer.ManuLineThickToleRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QV",
+				"serviceId": "third-data-service",
+				"uri": "manu_line_length_tole/keepThird",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.customer.ManuLineLengthToleRD"
+				]
+			},
+			{
+				"interfaceId": "1010103110",
+				"serviceId": "third-data-service",
+				"uri": "contract_info_2/keepThird",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.contract.ContractInfo2RD"
+				]
+			},
+			{
+				"interfaceId": "1010103113",
+				"serviceId": "third-data-service",
+				"uri": "contract-production-schedule01/keepThird",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.sales.ContractProductionSchedule01RD"
+				]
+			},
+			{
+				"interfaceId": "10101031A6",
+				"serviceId": "base-service",
+				"uri": "bs-md-cust-drawing/saveCustDrawing",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.basicdata.BsMdCustDrawingRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QC",
+				"serviceId": "base-service",
+				"uri": "bs-poc-contrast-usage-info/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocContrastUsageInfoRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QV",
+				"serviceId": "base-service",
+				"uri": "bs-poc-prod-length-tol/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocProdLengthTolRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QT",
+				"serviceId": "base-service",
+				"uri": "bs-poc-prod-thick-tol/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocProdThickTolRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QU",
+				"serviceId": "base-service",
+				"uri": "bs-poc-prod-width-tol/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocProdWidthTolRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QD",
+				"serviceId": "base-service",
+				"uri": "bs-poc-limit-spec/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocLimitSpecRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QK",
+				"serviceId": "base-service",
+				"uri": "bs-poc-shop-sign/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocShopSignRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QR",
+				"serviceId": "base-service",
+				"uri": "bs-poc-special-attribute/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocSpecialAttributeRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QI",
+				"serviceId": "base-service",
+				"uri": "bs-poc-standard/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocStandardRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QB",
+				"serviceId": "base-service",
+				"uri": "bs-poc-std-item/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocStdItemRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QH",
+				"serviceId": "base-service",
+				"uri": "bs-poc-thickness-compensate/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocThicknessCompensateRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QF",
+				"serviceId": "base-service",
+				"uri": "bs-poc-wedge-limit-spec/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocWedgeLimitSpecRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QG",
+				"serviceId": "base-service",
+				"uri": "bs-poc-wedge-spec-range/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocWedgeSpecRangeRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QE",
+				"serviceId": "base-service",
+				"uri": "bs-poc-wedge-weight/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocWedgeWeightRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QS",
+				"serviceId": "base-service",
+				"uri": "bs-poc-paint-code/receive",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocPaintCodeRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QA",
+				"serviceId": "base-service",
+				"uri": "bs-poc/saveIXBUS",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QL",
+				"serviceId": "base-service",
+				"uri": "bs-poc-brand-number/saveIXBUS",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocBrandNumberRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QQ",
+				"serviceId": "base-service",
+				"uri": "bs-poc-end-use/saveIXBUS",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocEndUseRD"
+				]
+			},
+			{
+				"interfaceId": "10101031QP",
+				"serviceId": "base-service",
+				"uri": "bs-poc-end-user/saveIXBUS",
+				"classNames": [
+					"com.ebase.thirdparty.xbus.send.poc.BsPocEndUserRD"
+				]
+			}
+		]
+	},
+	{
+		"sysCode": "1072",
+		"infos": [
+			{
+				"interfaceId": "1072103101",
+				"serviceId": "third-data-service",
+				"uri": "storage-performance/thirdSave",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.logistics.StoragePerformanceVO"
+				]
+			},
+			{
+				"interfaceId": "1072103102",
+				"serviceId": "third-data-service",
+				"uri": "outgoing-performance/thirdSave",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.logistics.OutgoingPerformanceVO"
+				]
+			},
+			{
+				"interfaceId": "1072103112",
+				"serviceId": "third-data-service",
+				"uri": "code_list_cost_category/keepThird",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.logistics.CodeListCostCategoryMergeRD"
+				]
+			},
+			{
+				"interfaceId": "1072103103",
+				"serviceId": "third-data-service",
+				"uri": "location_change/keepThird",
+				"classNames": [
+					"com.ebase.thirdparty.sap.recover.stock.LocationChangeRD"
+				]
+			}
+		]
+	},
+	{
+		"sysCode": "1073",
+		"infos": [
+			{
+				"interfaceId": "1073103101",
+				"serviceId": "contract-service",
+				"uri": "tr-intent-order/intelligentmarketing/save",
+				"classNames": [
+					"com.ebase.thirdparty.Intelligentmarketing.reciver.intendorder.ThirdintentOrderVo",
+					"com.ebase.thirdparty.Intelligentmarketing.reciver.intendorder.ThirdintentOrder",
+					"com.ebase.thirdparty.Intelligentmarketing.reciver.intendorder.ThirdintentOrderItem"
+
+				]
+			}
+
+		]
+	}
+]
+
